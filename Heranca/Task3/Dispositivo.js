@@ -6,3 +6,5 @@ class Dispositivo{
         console.log("Dispositivo Desligado")
     }
 }
+
+
